@@ -1,4 +1,4 @@
-export default function userReducer(state = {users: []}, action){
+export default function hotelReducer(state = {hotels: []}, action){
 
     switch (action.type){
         default:
